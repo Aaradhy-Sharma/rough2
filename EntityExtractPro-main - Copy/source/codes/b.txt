@@ -1,0 +1,94 @@
+Entity Recognition Results:
+
+Name:
+  - Scott
+  - Dana
+  - Taylor
+  - Pillow
+  - Suggeslions
+  - JUSTIN H. SMITH
+  - W. W. S. Bliss
+  - Louis NAPOLEON
+  - Arista
+  - Szugges
+  - Justin H. Smith
+  - JSTOR
+
+Rank:
+
+Address:
+
+PhoneNo:
+
+Pin:
+
+ID:
+
+Location:
+  - Worth
+  - the United States
+  - St.
+Petersburg
+  - Palmerston
+  - PALMERSTON
+  - Russia
+  - America
+  - Mexico
+  - Palo Alto
+  - the King of Prussia
+  - Quitman
+  - colonies
+  - Monterey
+  - the City of Mexico Scott
+  - pp.
+  - England
+  - the King of France
+  - Europe
+
+MainEventsInvolvedIn:
+
+Date:
+  - 13, 1847
+  - September 8
+  - Oct., 1915
+  - 2024
+  - the nineteenth century
+  - September
+  - next day
+  - 24-06-2024
+  - the day before
+
+Organization:
+  - the Terms & Conditions of Use
+  - REV
+  - Fox
+  - Pillow
+  - the American Historical Association
+  - American Historical Association
+  - VOL
+  - Buena Vista Braxton Bragg
+  - The American Historical Review
+  - Oxford University Press
+  - JSTOR
+
+
+
+AI-Generated Summary:
+
+Summary of identified individuals and their activities:
+- Dana from The American Historical Review was involved in an unspecified event on Oct., 1915.
+- Louis NAPOLEON from The American Historical Review was involved in an unspecified event on Oct., 1915.
+- JUSTIN H. SMITH from The American Historical Review was involved in an unspecified event on Oct., 1915.
+- Pillow from The American Historical Review was involved in an unspecified event on Oct., 1915.
+- Arista from The American Historical Review was involved in an unspecified event on Oct., 1915.
+- Suggeslions from The American Historical Review was involved in an unspecified event on Oct., 1915.
+- Szugges from The American Historical Review was involved in an unspecified event on Oct., 1915.
+- Justin H. Smith from The American Historical Review was involved in an unspecified event on Oct., 1915.
+- JSTOR from The American Historical Review was involved in an unspecified event on Oct., 1915.
+- W. W. S. Bliss from The American Historical Review was involved in an unspecified event on Oct., 1915.
+- Taylor from The American Historical Review was involved in an unspecified event on Oct., 1915.
+- Scott from The American Historical Review was involved in an unspecified event on Oct., 1915.
+
+Other organizations mentioned: Oxford University Press, the American Historical Association, JSTOR, the Terms & Conditions of Use, Oxford University Press, American Historical Association, JSTOR, The American Historical Review, Fox, REV, VOL, Buena Vista Braxton Bragg, Pillow
+
+Other dates mentioned: 24-06-2024, 2024, 2024, the day before, 2024, next day, September, September 8, 13, 1847, the nineteenth century, 2024

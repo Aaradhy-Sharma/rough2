@@ -1,0 +1,22 @@
+@echo off
+echo Building AI Text Analysis executable...
+
+REM Create executable
+pyinstaller AI_Text_Analysis.spec
+
+REM Create package folder
+mkdir AI_Text_Analysis_Package
+
+REM Copy executable and necessary folders
+xcopy /E /I dist\AI_Text_Analysis AI_Text_Analysis_Package\AI_Text_Analysis
+xcopy /E /I logs AI_Text_Analysis_Package\logs
+xcopy /E /I results AI_Text_Analysis_Package\results
+xcopy /E /I highlighted AI_Text_Analysis_Package\highlighted
+xcopy /E /I "example inputs" "AI_Text_Analysis_Package\example inputs"
+
+REM Create README file
+echo Instructions for running AI Text Analysis: > AI_Text_Analysis_Package\README.txt
+echo 1. Double-click on AI_Text_Analysis.exe to run the application >> AI_Text_Analysis_Package\README.txt
+echo 2. Follow the on-screen instructions to analyze your documents >> AI_Text_Analysis_Package\README.txt
+
+echo Build complete!
